@@ -1,7 +1,7 @@
 **<h2>LinkedIn App Reviews Sentiment Analysis </h2>**
 The LinkedIn app reviews sentiment analysis involves analyzing user feedback and opinions expressed in reviews of the LinkedIn mobile application. By employing natural language processing (NLP) techniques, the text data from these reviews is processed to determine the overall sentiment conveyed, whether positive, negative, or neutral. 
 
-**<h4># Features </h4>**
+**<h4>Features</h4>**
 Data Collection: The project collects reviews of the LinkedIn app from various sources such as app stores or review websites.
 
 Preprocessing: The collected data undergoes preprocessing steps including text cleaning, tokenization, and normalization to prepare it for sentiment analysis.
